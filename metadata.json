@@ -1,0 +1,6 @@
+{
+  "name": "FROSTLAB — Thermal Alpine Ski Apparel",
+  "description": "Minimalist luxury alpine technical ski masks, thermal color-changing balaclavas, 3D interactive viewer, and seamless ski-drop checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
